@@ -6,3 +6,4 @@
 | 2 | [State and Props](class-02.md)|
 | 3 | [Passing Functions as Props](class-03.md)|
 | 4 | [React and Forms](class-04.md)|
+| 5 | [Thinking in React](class-05.md)|
