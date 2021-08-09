@@ -8,3 +8,4 @@
 | 4 | [React and Forms](class-04.md)|
 | 5 | [Thinking in React](class-05.md)|
 | 6 | [NODE.JS](class-06.md)|
+| 7 | [REST](class-07.md)|
