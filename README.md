@@ -9,3 +9,4 @@
 | 5 | [Thinking in React](class-05.md)|
 | 6 | [NODE.JS](class-06.md)|
 | 7 | [REST](class-07.md)|
+| 8 | [FUNCTIONAL PROGRAMMING](class-08.md)|
