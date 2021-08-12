@@ -10,3 +10,5 @@
 | 6 | [NODE.JS](class-06.md)|
 | 7 | [REST](class-07.md)|
 | 8 | [FUNCTIONAL PROGRAMMING](class-08.md)|
+| 9 | [APIs](class-09.md)|
+| 10 | [In memory storage](class-10.md)|
