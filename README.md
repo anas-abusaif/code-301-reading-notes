@@ -12,3 +12,5 @@
 | 8 | [FUNCTIONAL PROGRAMMING](class-08.md)|
 | 9 | [APIs](class-09.md)|
 | 10 | [In memory storage](class-10.md)|
+| 11 | [Authentication](class-11.md)|
+| 12 | [Mongo and Mongoose](class-12.md)|
