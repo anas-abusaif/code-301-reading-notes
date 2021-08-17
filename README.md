@@ -14,3 +14,4 @@
 | 10 | [In memory storage](class-10.md)|
 | 11 | [Authentication](class-11.md)|
 | 12 | [Mongo and Mongoose](class-12.md)|
+| 13 | [CRUD](class-13.md)|
