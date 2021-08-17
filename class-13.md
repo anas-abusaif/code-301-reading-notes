@@ -34,3 +34,12 @@ These are the server error codes. Often they indicate problems with overwhelmed 
  ## What is the ‘Forbidden’ status code?
  403
  
+ ## Why do we need to pull our MongoDB database string out of our server and put it into our .env? (Links to an external site.)
+The URL
+
+## What is middleware?
+Middleware is software that enables one or more kinds of communication or connectivity between two or more applications or application components in a distributed network
+
+## What does app.use(express.json()) do?
+ a method inbuilt in express to recognize the incoming Request Object as a JSON Object. This method is called as a middleware in your application using the code
+
