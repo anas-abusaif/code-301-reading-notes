@@ -15,3 +15,4 @@
 | 11 | [Authentication](class-11.md)|
 | 12 | [Mongo and Mongoose](class-12.md)|
 | 13 | [CRUD](class-13.md)|
+| 14 | [Diversity & Inclusion in the Tech Industry](class-14.md)|
